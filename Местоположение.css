@@ -1,0 +1,16 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-map-1 {
+  height: 600px;
+  margin-top: -1px;
+  margin-bottom: 1px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-map-1 {
+    margin-top: 23px;
+    margin-bottom: 0;
+  }
+}
